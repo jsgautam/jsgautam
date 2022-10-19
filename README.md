@@ -3,6 +3,8 @@
 Android Devloper and Tech Savy
 ---------------------------------
 
+An Ordinary man with some extraordinary dreams 💯
+
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [jsgautam697@gmail.com](mailto:jsgautam697@gmail.com)
 
