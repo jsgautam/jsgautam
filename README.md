@@ -9,9 +9,6 @@ An Ordinary man with some extraordinary dreams 💯
 * ✉️  You can contact me at [jsgautam697@gmail.com](mailto:jsgautam697@gmail.com)
 
 
-[![@jatinsingh287's Holopin board](https://holopin.me/jatinsingh287)](https://holopin.io/@jatinsingh287)
-
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,6 +20,10 @@ An Ordinary man with some extraordinary dreams 💯
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+[![@jatinsingh287's Holopin board](https://holopin.me/jatinsingh287)](https://holopin.io/@jatinsingh287)
+
 
 <a href="http://www.github.com/jsgautam"><img src="https://github-readme-stats.vercel.app/api?username=jsgautam&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="VinaySehwag14's GitHub stats" /></a>
 
