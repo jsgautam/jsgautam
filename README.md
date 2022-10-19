@@ -11,13 +11,13 @@ An Ordinary man with some extraordinary dreams 💯
 
 <div id="badges">
   <a href="https://www.instagram.com/jatinsingh287/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCs4O9Hv1nap2GPsQY2juaxQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.facebook.com/jatin.gautam.19/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
