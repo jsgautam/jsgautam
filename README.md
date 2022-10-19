@@ -3,6 +3,9 @@
 Android Devloper and Tech Savy
 ---------------------------------
 
+* 🌍  I'm based in New Delhi
+* ✉️  You can contact me at [jsgautam697@gmail.com](mailto:jsgautam697@gmail.com)
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
