@@ -1,6 +1,6 @@
 # Hi 👋 My name is Jatin Singh
 
-Android Devloper and Tech Enthusiastic
+Android Devloper and Tech Savy
 ---------------------------------
 
 <div id="badges">
