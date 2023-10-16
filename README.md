@@ -1,6 +1,6 @@
 # Hi 👋 My name is Jatin Singh
 
-Android Devloper and Technical Project Coordinator @ Redian Software Global
+Android Devloper and Technical Project Coordinator
 ---------------------------------
 
 An Ordinary man with some extraordinary dreams 💯
